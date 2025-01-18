@@ -1,0 +1,15 @@
+[submodule "imgSlider"]
+	path = imgSlider
+	url = https://github.com/spiccoli/imgSlider
+[submodule "rockpaperscissors"]
+	path = rockpaperscissors
+	url = https://github.com/spiccoli/rockpaperscissors
+[submodule "Stopwatch"]
+	path = Stopwatch
+	url = https://github.com/spiccoli/Stopwatch
+[submodule "diceRollerGame"]
+	path = diceRollerGame
+	url = https://github.com/spiccoli/diceRollerGame
+[submodule "digitalClock"]
+	path = digitalClock
+	url = https://github.com/spiccoli/digitalClock
