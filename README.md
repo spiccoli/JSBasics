@@ -1,7 +1,7 @@
 This repository hosts my first JavaScript projects. Since they are simple and serve as learning exercises, I decided to group them together under a larger one.<br>
 
-# [https://spiccoli.github.io/Stopwatch/](https://spiccoli.github.io/Stopwatch/) ⏱️
 <br>
+# [https://spiccoli.github.io/Stopwatch/](https://spiccoli.github.io/Stopwatch/) ⏱️
 <img src="https://github.com/user-attachments/assets/92adb1c2-37a7-42cb-9012-7e6512e69a54" width="400"><br>
 # [https://spiccoli.github.io/diceRollerGame/](https://spiccoli.github.io/diceRollerGame/) 🎲
 
