@@ -10,3 +10,5 @@ This repository hosts my first JavaScript projects. Since they are simple and se
 <img src="https://github.com/user-attachments/assets/41a88b4c-fd67-4147-9869-6f01443215b8" width="400"><br>
 # [https://spiccoli.github.io/rockpaperscissors/](https://spiccoli.github.io/rockpaperscissors/) 🪨📄✂️
 <img src="https://github.com/user-attachments/assets/f6dea690-c2dd-47ae-9090-3e24adc89f1e" width="400"><br>
+# [https://spiccoli.github.io/tempConverterWebsite/](https://spiccoli.github.io/tempConverterWebsite/) 🌡️
+<img src="https://github.com/user-attachments/assets/7cfec11b-3f20-4381-a1f9-fb1842452128" width="400"><br>
