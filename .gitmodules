@@ -13,3 +13,6 @@
 [submodule "digitalClock"]
 	path = digitalClock
 	url = https://github.com/spiccoli/digitalClock
+[submodule "tempConverterWebsite"]
+	path = tempConverterWebsite
+	url = https://github.com/spiccoli/tempConverterWebsite
