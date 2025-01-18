@@ -13,3 +13,6 @@
 [submodule "digitalClock"]
 	path = digitalClock
 	url = https://github.com/spiccoli/digitalClock
+[submodule "rockpaperscissors2"]
+	path = rockpaperscissors2
+	url = https://github.com/spiccoli/rockpaperscissors
